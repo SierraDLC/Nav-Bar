@@ -1,0 +1,21 @@
+.Container { display:flex;
+            justify-content: space-around;
+            background-color: black;
+            color:white;
+            align-items: center;
+            font-family: serif;
+            font-size: medium;
+            padding-right: 28%;}
+            
+div { display: flex; text-align: center; padding: 14px 16px; text-decoration: none;}
+
+ #logo {background-color: purple;
+        display: flex; justify-content: space-between;
+        font-size: 70px;
+        padding: 20px }
+        
+ul { list-style-type: none;}
+
+.cart { display:flex; justify-content: flex-end;}
+
+
